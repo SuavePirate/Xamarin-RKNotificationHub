@@ -21,7 +21,7 @@ var hub = new RKNotificationHub.RKNotificationHub();
 
 You can then set or change the view or position of the circle:
 
-```chsarp
+```csharp
 hub.SetView(myView);
 hub.SetCircleAtFrame(myFrame);
 ```
@@ -34,7 +34,7 @@ hub.SetCircleColor(circleColor, labelColor);
 
 Then you can change the value of the notifcation:
 
-```charp
+```csharp
 hub.Increment();
 hub.IncrementBy(10);
 hub.Decrement();
