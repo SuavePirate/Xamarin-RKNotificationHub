@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">    
+  <id>DT.Xamarin.RKNotificationHub</id>
+  <version>2.0.4</version>
+  <authors>DreamTeam Mobile</authors>
+  <owners>DreamTeam Mobile</owners>
+  <summary>iOS: Make any UIView a full fledged notification center</summary>
+  <licenseUrl>https://github.com/cwRichardKim/RKNotificationHub</licenseUrl>
+  <projectUrl>https://github.com/cwRichardKim/RKNotificationHub</projectUrl>
+  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  <description>Umbrella Xamarin binding === A simple one line solution to turning adding a notification bubble to any UIView. Easily increment, decrement, an animate the notification, -Notification, -Notification Center, -objectivec, -ios, -iphone, -xcode</description>
+  <releaseNotes></releaseNotes>
+  <copyright>Not yet available</copyright>    
+  <tags>Xamarin iOS</tags>
+  <dependencies>
+
+  </dependencies>
+  <references></references>
+  </metadata>
+  <files>
+    <file src="bin/Release/RKNotificationHub.dll" target="lib/Xamarin.iOS" />
+  </files>
+</package>
